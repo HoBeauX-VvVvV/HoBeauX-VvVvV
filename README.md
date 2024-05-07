@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on html, css and java script
 - 📫 How to reach me Fire_Fly_7@hotmail.com
-- 😄 Pronouns: he(ro)/him
 - ⚡ Fun fact: I love video games and I'd love to create one one day. 
 
 <!---
